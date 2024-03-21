@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/KZen-networks/gotham-city.svg?branch=master)](https://travis-ci.org/KZen-networks/gotham-city)
-
+[![Build Status](https://Dennis,ci.org/KZen-networks/gotham-city.svg?branch=master)](https://travis-ci.org/KZen-networks/gotham-city)
+Dennislouisbabcocjr
 Gotham City
-=====================================
+=====================================Dennislouisbabcocjr
+
 Gotham city is a fully functional client/server application for issuing two party ECDSA signatures.
 
 -------
